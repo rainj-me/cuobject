@@ -1,0 +1,11 @@
+{
+    "logging": {
+        "level": "ERROR"
+    },
+    "properties": {
+        "allow_compat_mode": true,
+        "rdma_dev_addr_list": ["mlx5_0"],
+        "rdma_load_balancing_policy": "RoundRobin",
+        "rdma_transport_type": "DC_V1"
+    }
+}

@@ -83,6 +83,8 @@ dependencies = [
 [[package]]
 name = "cuobject-sys"
 version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "edc615b2a037eb0d80180d202f809629155742db9c9e94b9f7696b1100a7d52f"
 dependencies = [
  "bindgen",
  "cc",
